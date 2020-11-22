@@ -1,7 +1,7 @@
 # Flutter_weather
 
 Weather application using flutter for iOS and Android.\
-This application enables you to get a brief information on current weather condition at your location. It also enables you to search for a weather condition at a remote location as well.
+This application enables you to get a brief information on current weather condition at your location. It also enables you to search for a weather condition at a remote location as well. It employs OpenWeatherMap api to retrieve the climatic informations.
 
 
 ## Add the following dependencies to pubspec.yaml:
